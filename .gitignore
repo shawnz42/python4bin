@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 data.bat
 
 # Byte-compiled / optimized / DLL files
